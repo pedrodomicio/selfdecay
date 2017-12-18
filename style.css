@@ -1,3 +1,6 @@
 body {
    background-image: url("Images/Selfdecay Maze Banner.png");
+   background-repeat:no-repeat;
+   background-size:contain;
+   background-position:center;
 }
